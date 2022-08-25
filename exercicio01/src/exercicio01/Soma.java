@@ -21,5 +21,6 @@ class Soma {
 		
 		//mostra na tela o resultado
 		System.out.println("soma " + soma);
+		
 	}
 }
